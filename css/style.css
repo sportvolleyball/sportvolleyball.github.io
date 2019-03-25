@@ -1,0 +1,89 @@
+div.header{
+background:url(http://www.ikunin.ru/photo/2016/volleyball_tatarstanchamp16/IMG_3493.jpg); 
+height: 150px;
+width: 1000px;
+text-align: center;
+padding-top:60px; 
+border:5px solid #000000;  
+
+}
+div.main{
+	width: 1000px;
+	margin: 0 auto;
+	
+
+}
+div.header p{
+	text-align:center;
+}
+div.golovna{
+ background: red;
+float: left;
+width: 250px;
+height: 25px
+
+
+}
+div.statti{
+background: yellow;
+float: left;
+width: 250px;
+height: 25px
+
+	}
+	div.reklama{
+    background: green;
+float: left;
+width: 250px;
+height: 25px
+
+	}
+	div.Buxid{
+    background: #483D8B;
+float: left;
+width: 250px;
+height: 25px
+
+	}
+div.sidebar{
+
+float: right;
+background: red;
+text-align: center;
+width: 500px;
+}
+div.content{
+	text-align: center;
+	float: 0 auto;
+	width: 1000px;
+
+}
+div.note{
+	float: left;
+}
+div.note img{
+
+}
+div.footer{
+	border: 2px solid #000000
+	width:100px ;
+	float: left;
+}
+body{
+	background-image: url(http://blog.harrix.org/wp-content/uploads/2014/11/logo061-1024x450.png);
+}
+div.content h3{
+	float: auto;
+}
+div.golovna  {
+	text-align: center;
+}
+div.statti{
+	text-align: center;
+}
+div.reklama{
+	text-align: center;
+}
+div.Buxid{
+	text-align: center;
+}
